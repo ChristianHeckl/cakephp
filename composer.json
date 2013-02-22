@@ -1,0 +1,21 @@
+{
+    "name": "cakephp/cakephp",
+	"type": "cakephp-plugin",
+    "description": "CakePHP: The Rapid Development Framework for PHP - Official Repository",
+    "authors": [
+        {
+            "name": "cakephp",
+            "email": "info@cakephp.org"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    },
+	"extra": {
+        "installer-name": "Cake",
+		"installer-paths": {
+            "lib": ["cakephp/cakephp"]
+        }
+    }
+}
