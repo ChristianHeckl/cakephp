@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-
+		"composer/installers": "*"
     },
 	"extra": {
         "installer-name": "Cake",
